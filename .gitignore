@@ -1,0 +1,5 @@
+docker-compose.yml
+nginx.conf
+package.json
+package-lock.json
+openapitools.json
